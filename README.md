@@ -1,11 +1,16 @@
 # PaperFN
-An fully custom made Verse Module designed for making 2D games/experiences in the Unreal Editor for Fortnite
+An fully custom made Verse Module designed for making 2D games/experiences in the Unreal Editor for Fortnite.
 # Features
 ●	 Top down and Platformer 2D Movement
 
 ●	 Tons of Custom Functions
 
 ●	 Easy to Use with lot of documentation
+
+●	 Optimized to be used freely without major frame drops or lag
+
+●  License allows you to expand upon the module as if it was open source (Credit required in attributions)
+
 # File Size
 PaperFN Module = 0.004 MB (Required for other modules to function)
 
