@@ -18,10 +18,6 @@ Platformer Module = 0.005 MB
 
 Topdown Module = 0.009 MB
 
-Topdown Shooter Module = 0 MB (No Code so far and requires the Topdown Module to function)
-
-PaperCombo Module = 0 MB
-
 # License
 This file is licensed under the Creative Commons Attribution 4.0 International license.
 
